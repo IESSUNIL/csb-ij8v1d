@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://iessunil.github.io/csb-ij8v1d/static/css/main.a67f459b.chunk.css",
+    "main.js": "https://iessunil.github.io/csb-ij8v1d/static/js/main.b99d3d67.chunk.js",
+    "main.js.map": "https://iessunil.github.io/csb-ij8v1d/static/js/main.b99d3d67.chunk.js.map",
+    "runtime-main.js": "https://iessunil.github.io/csb-ij8v1d/static/js/runtime-main.582db96e.js",
+    "runtime-main.js.map": "https://iessunil.github.io/csb-ij8v1d/static/js/runtime-main.582db96e.js.map",
+    "static/js/2.df259598.chunk.js": "https://iessunil.github.io/csb-ij8v1d/static/js/2.df259598.chunk.js",
+    "static/js/2.df259598.chunk.js.map": "https://iessunil.github.io/csb-ij8v1d/static/js/2.df259598.chunk.js.map",
+    "index.html": "https://iessunil.github.io/csb-ij8v1d/index.html",
+    "static/css/main.a67f459b.chunk.css.map": "https://iessunil.github.io/csb-ij8v1d/static/css/main.a67f459b.chunk.css.map",
+    "static/js/2.df259598.chunk.js.LICENSE.txt": "https://iessunil.github.io/csb-ij8v1d/static/js/2.df259598.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.582db96e.js",
+    "static/js/2.df259598.chunk.js",
+    "static/css/main.a67f459b.chunk.css",
+    "static/js/main.b99d3d67.chunk.js"
+  ]
+}
